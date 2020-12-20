@@ -1,0 +1,8 @@
+PATCH http://localhost:3000/api/animals/5fdfb85ada42b248b520cc87
+Content-Type: application/vnd.api+json
+
+{
+   
+   "name": "valera"
+   
+}
