@@ -1,1 +1,1 @@
-module.exports.animalController = require('./animalController');
+module.exports.animalController = require('./animal.controller');
